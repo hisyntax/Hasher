@@ -1,0 +1,2 @@
+# Hasher
+Hasher in GoLang
